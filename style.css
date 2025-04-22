@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Colors */
+
+    --pale-blue: hsl(225, 100%, 98%);
+    --light-blue: hsl(224, 23%, 55%);
+    --dark-blue: hsl(223, 47%, 23%);
+
+    /* Fonts */
+    --para-fnt-size: 16px;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+}
